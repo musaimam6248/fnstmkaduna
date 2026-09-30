@@ -1,0 +1,11 @@
+/database/app.db
+/uploads/staff/*
+!/uploads/staff/.gitkeep
+/uploads/gallery/*
+!/uploads/gallery/.gitkeep
+/uploads/committee/*
+!/uploads/committee/.gitkeep
+/uploads/winners/*
+!/uploads/winners/.gitkeep
+/uploads/videos/*
+!/uploads/videos/.gitkeep

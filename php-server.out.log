@@ -1,0 +1,5 @@
+Using PHP: C:\Users\muham\AppData\Local\Microsoft\WinGet\Packages\PHP.PHP.8.4_Microsoft.Winget.Source_8wekyb3d8bbwe\php.exe
+Running database migration...
+Database migration completed successfully.
+Starting offline server at http://127.0.0.1:8000
+Press Ctrl+C to stop.
